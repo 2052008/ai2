@@ -74,10 +74,10 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
     #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
     # },
-    labels[0] : {"texts" : ["중국식 냉면은 맛있어"], "images" : ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fwtable.co.kr%2Frecipes%2FfCZFM5bTYZMU4saAcWR413Jy&psig=AOvVaw2wZYs7c3UlZV6xrztZd3-i&ust=1763789315417000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLjypLHBgpEDFQAAAAAdAAAAABAE"]},
-    labels[1] : {"texts" : ["짜장면은 달아"], "images" : ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.greating.co.kr%2Fmarket%2FmarketDetail%3FitemId%3D160920&psig=AOvVaw3Zodp7jrGJAbjbHSKV_JNv&ust=1763788692521000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMjl_Ii_gpEDFQAAAAAdAAAAABAE"]},
-    labels[2] : {"texts" : ["짬뽕은 매워"], "images" : ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fnamu.wiki%2Fw%2F%25EC%25A7%25AC%25EB%25BD%2595&psig=AOvVaw1hq-5mAuMpAgFnZXzQ6Gsl&ust=1763789396783000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJCyrdfBgpEDFQAAAAAdAAAAABAE"]},
-    labels[3] : {"texts" : ["탕수육은 맛있어"], "images" : ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.10000recipe.com%2Frecipe%2F6935781%3Fsrsltid%3DAfmBOoo1EcXYdTy2ocWSOF0bmFIobK7cdDbbvcWTpxCCw2dkuL1vorfD&psig=AOvVaw3fsTpD44m4ZyJlT_eV86k-&ust=1763789476986000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCND73v3BgpEDFQAAAAAdAAAAABAE"]},
+    labels[0] : {"texts" : ["중국식 냉면은 맛있어"], "images" : ["https://www.esquirekorea.co.kr/resources_old/online/org_online_image/eq/71c93efd-352d-4fb4-8a98-dd1b51475442.jpg"]},
+    labels[1] : {"texts" : ["짜장면은 달아"], "images" : ["https://m.health.chosun.com/site/data/img_dir/2024/08/02/2024080201848_0.jpg"]},
+    labels[2] : {"texts" : ["짬뽕은 매워"], "images" : ["https://img-cf.kurly.com/hdims/resize/%3E720x/quality/90/src/shop/data/goodsview/20230803/gv20000714335_1.jpg"]},
+    labels[3] : {"texts" : ["탕수육은 맛있어"], "images" : ["https://i.namu.wiki/i/NSZu9w4DRwEPOCgPSzvs4sAZlxfMBoxZLCZQgM_O4wRH8jN0guRfBiLURu-Tno5p-Q2aw5e5gy9gLJsnYKlq8Q.webp"]},
 }
 
 # ======================
